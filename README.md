@@ -1,0 +1,2 @@
+# Kortizoli
+Stresa mazināšanas applikācija
